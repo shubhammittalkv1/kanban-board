@@ -1,0 +1,16 @@
+/* Below is the CSS for User Icon Component */
+.user-icon-circle {
+  display: inline-block;
+  border-radius: 50%;
+}
+.user-icon-circle-inner {
+  color: white;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: none;
+  height: 28px;
+  width: 28px;
+  font-size: 14px;
+}
+/* End of the above code */

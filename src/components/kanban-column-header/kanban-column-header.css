@@ -1,0 +1,31 @@
+/* Below CSS is for the Kanban Column Header Component */
+.column-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0px;
+}
+.column-header-first-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.column-header-title {
+  font-size: 15px;
+  font-weight: 500;
+  color: #2a2a2a;
+}
+.column-header-length {
+  font-size: 14px;
+  font-weight: 500;
+  color: #a0a0a2;
+}
+.column-header-second-section {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+}
+/* End of the above code */
+

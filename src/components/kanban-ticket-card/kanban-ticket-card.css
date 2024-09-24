@@ -1,0 +1,42 @@
+/* Below is the CSS of kanban Ticket Card Component */
+.kanban-board-ticket-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    width: 94%;
+    border: 1px solid #e6e6e6;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    cursor: pointer;
+}
+.kanban-board-ticket-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+}
+.kanban-board-ticket-card-body {
+    display: flex;
+    gap: 8px;
+}
+.kanban-board-ticket-card-footer {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+}
+.kanban-board-ticket-card-id {
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #7c7d81;
+}
+.kanban-board-ticket-card-title {
+    margin: 0px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #2a2a2a;
+}
+/* End of the above code */

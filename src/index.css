@@ -1,0 +1,16 @@
+/* Below is the code for the Parent Component */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f5f8;
+}
+.container {
+  background-color: #f4f5f8;
+}
+.column-spacing {
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+}

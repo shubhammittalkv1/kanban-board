@@ -1,0 +1,11 @@
+/* Below is the CSS for the Kanban Ticket Priority Label Component */
+.priority-label-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 4px;
+    border-radius: 4px;
+    border: 1px solid #e6e6e6;
+    gap: 4px;
+}
+/* End of the above code */

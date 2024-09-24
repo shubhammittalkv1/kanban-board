@@ -1,0 +1,33 @@
+
+/* Below code is for the kanban board Component CSS */
+.column-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding: 30px;
+  }
+  .column-wrapper .column-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    width: 100%;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .column-container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .column-container .column-item {
+    flex: 0 0 auto;
+    margin-right: 48px;
+    width: 360px;
+  }
+  .loader-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  /* End of the above code */

@@ -1,0 +1,8 @@
+/* Below is the code for the Kanban Header Component */
+.header {
+  height: 56px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+/* End of the above code */
